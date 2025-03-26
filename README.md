@@ -1,2 +1,5 @@
 # Responsiveness in HTML
-Some exercise to learn basics of responsiveness.
+
+Basic practice of responsive in HTML and CSS
+
+### Same as the HTML/CSS repository, if you love beautifull thing pass you way !!!!

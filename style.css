@@ -30,7 +30,7 @@ div {
     background: #efb036;
     font-size: 1.4rem;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(3, 1fr);
   }
   #small {
     grid-column: 1 / 3;
